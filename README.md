@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link para o curso [Python Pro](https://pythonpro.com.br)
 
+[![Build Status](https://app.travis-ci.com/olv-leo/libpythonpro.svg?branch=main)](https://app.travis-ci.com/olv-leo/libpythonpro)
+
 Para fazer a instalação (no Windowns):
 
 ```console
