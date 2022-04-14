@@ -8,6 +8,10 @@ Link para o curso [Python Pro](https://pythonpro.com.br)
 
 [![Build Status](https://app.travis-ci.com/olv-leo/libpythonpro.svg?branch=main)](https://app.travis-ci.com/olv-leo/libpythonpro)
 
+[![Updates](https://pyup.io/repos/github/olv-leo/libpythonpro/shield.svg)](https://pyup.io/repos/github/olv-leo/libpythonpro/)
+
+[![Python 3](https://pyup.io/repos/github/olv-leo/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/olv-leo/libpythonpro/)
+
 Para fazer a instalação (no Windowns):
 
 ```console
