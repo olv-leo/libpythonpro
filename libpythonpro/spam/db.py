@@ -1,6 +1,7 @@
 class Sessao:
     contador = 0
     usuarios = []
+
     def salvar(self, usuario):
         Sessao.contador += 1
         usuario.id = Sessao.contador
