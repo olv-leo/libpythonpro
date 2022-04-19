@@ -8,5 +8,6 @@ class Enviador:
         self.qtd_emails_enviados += 1
         return remetente
 
+
 class EmailInvalido(Exception):
     pass
