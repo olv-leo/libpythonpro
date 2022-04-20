@@ -4,14 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
 
 [dev-packages]
-flake8 = "*"
-pytest = "*"
-coverage = "*"
-pytest-cov = "*"
-pytest-mock = "*"
+flake8 = "==4.0.1"
+pytest = "==7.0.1"
+coverage = "==6.2"
+pytest-cov = "==3.0.0"
+pytest-mock = "==3.6.1"
 
 [requires]
 python_version = "3.9"
