@@ -2,7 +2,7 @@ language: python
 version:
   - 3.9
 install:
-  - pip install -r requirements-dev.txt codecov
+  - pipenv install
 script:
   - flake8
   - pytest libpythonpro --cov=libpythonpro
