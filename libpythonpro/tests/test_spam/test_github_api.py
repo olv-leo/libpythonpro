@@ -2,8 +2,6 @@ from unittest.mock import Mock
 
 import pytest as pytest
 
-from pytest_mock import mocker
-
 from libpythonpro import github_api
 
 
