@@ -3,7 +3,7 @@ version:
   - 3.9
 install:
   - pip install -q pipenv codecov
-  - pipenc sync --dev
+  - pipenv sync --dev
 script:
   - flake8
   - pytest libpythonpro --cov=libpythonpro
